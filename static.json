@@ -1,4 +1,6 @@
 {
-  "root": ".",
-  "clean_urls": true
+  "root": ".git add static.json",
+  "routes": {
+    "/**": "index.html"
+  }
 }
